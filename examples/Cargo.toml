@@ -93,6 +93,10 @@ name = "crd_reflector"
 path = "crd_reflector.rs"
 
 [[example]]
+name = "crd_watcher"
+path = "crd_watcher.rs"
+
+[[example]]
 name = "dynamic_api"
 path = "dynamic_api.rs"
 
